@@ -1,0 +1,8 @@
+.rodape{
+    color: aliceblue;
+    width: 65%;
+    height: 90vh;
+    display: flex;
+    justify-content: space-around;
+}
+

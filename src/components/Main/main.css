@@ -1,0 +1,16 @@
+*{
+    background-color: #19002E;
+}
+
+.texto{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+spam{
+    color: #F65BA5;
+}
